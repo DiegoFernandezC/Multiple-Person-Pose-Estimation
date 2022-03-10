@@ -1,6 +1,7 @@
 # Classes ID
 #   person: 0
 #   sports ball: 32
+
 # Video: 640x480
 
 from ctypes import sizeof
